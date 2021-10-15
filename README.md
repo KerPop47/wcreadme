@@ -11,10 +11,14 @@ Some basics: # does headings, so:
 
 
 You can also make bullet points with -
+- list
++ list
+. list
+
 
 and numbered lists can be any number, so
 
 1. first thing
 2. second thing
 3. third thing
-  1. sub-thing
+    1. sub-thing
