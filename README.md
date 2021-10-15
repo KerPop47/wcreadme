@@ -49,12 +49,12 @@ what happens when you search by tag
 
 ## taken from goodreads
 what happens when you search by title <p></p>
-pink pink pink
-girls girls girls
-glitter glitter glitter
-twirls twirls twirls
-together
-forever
-we're linda
-and heather!
-🌟best friends🌟
+pink pink pink<br>
+girls girls girls<br>
+glitter glitter glitter<br>
+twirls twirls twirls<br>
+together<br>
+forever<br>
+we're linda<br>
+and heather!<br>
+🌟best friends🌟<br>
