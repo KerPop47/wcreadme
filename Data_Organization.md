@@ -28,12 +28,14 @@ The thing being reviewed. The Overall values should be calculated and updated ev
 - Overall Genre
 - Overall Rating
 - Overall Tropes
-- Host-generated summary
+- Host site-generated summary
+- hosting sites/services
+- related works
+    - pre/sequels, movies, adaptations, etc
 - no. episodes
 - start date
 - in/complete
 - tvtropes link
-- hosting sites/services
 - List of Review IDs
 - List of Recommendations 
     - TODO: Expand
